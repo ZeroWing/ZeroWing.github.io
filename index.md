@@ -45,3 +45,5 @@ Visit our support server
 
 ## Donate
 If you like NabBot, you can donate to this project. NabBot and the developers will appreciate it :)
+
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"/>
