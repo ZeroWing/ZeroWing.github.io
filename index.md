@@ -45,3 +45,6 @@ Visit our support server
 
 ## Donate
 If you like NabBot, you can donate to this project. NabBot and the developers will appreciate it :)
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
