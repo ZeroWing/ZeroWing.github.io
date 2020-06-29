@@ -11,16 +11,17 @@ It features commands related to the MMORPG [Tibia](http://www.tibia.com/abouttib
 
 
 ## Features
-- Characters and guilds lookup.
-- Linking characters to discord users.
-- Level up and deaths announcements.
-- Event management, create timed events with announcements.
-- Keeps track of registered character's deaths and level ups as a log.
-- Watchlists, add characters or guilds to check their online status all the time.
-- Information commands, based on TibiaWiki articles. Items, monsters, NPCs, houses and more.
-- Joinable roles, create roles that any member can join or leave.
-- Autoroles, create roles that are assigned to users automatically based on their registered characters.
-- Boss timers, get notifications when you a cooldown is over.
+* tests
+* Characters and guilds lookup.
+* Linking characters to discord users.
+* Level up and deaths announcements.
+* Event management, create timed events with announcements.
+* Keeps track of registered character's deaths and level ups as a log.
+* Watchlists, add characters or guilds to check their online status all the time.
+* Information commands, based on TibiaWiki articles. Items, monsters, NPCs, houses and more.
+* Joinable roles, create roles that any member can join or leave.
+* Autoroles, create roles that are assigned to users automatically based on their registered characters.
+* Boss timers, get notifications when you a cooldown is over.
 
 [More details](features/index.md)
 
