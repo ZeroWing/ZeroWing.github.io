@@ -1,3 +1,5 @@
+The character is newly added.
+
 This is the first paragraph of the document.
 
 # This is the header line
