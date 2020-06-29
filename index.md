@@ -11,7 +11,7 @@ It features commands related to the MMORPG [Tibia](http://www.tibia.com/abouttib
 
 
 ## Features
-* tests
+* watch it grow
 * Characters and guilds lookup.
 * Linking characters to discord users.
 * Level up and deaths announcements.
@@ -22,7 +22,6 @@ It features commands related to the MMORPG [Tibia](http://www.tibia.com/abouttib
 * Joinable roles, create roles that any member can join or leave.
 * Autoroles, create roles that are assigned to users automatically based on their registered characters.
 * Boss timers, get notifications when you a cooldown is over.
-
 [More details](features/index.md)
 
 !!! error "Note"
