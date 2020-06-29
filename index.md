@@ -48,3 +48,5 @@ If you like NabBot, you can donate to this project. NabBot and the developers wi
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
+
+<img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"/>
